@@ -18,3 +18,6 @@ Prezado, Eu sou o Felipe Pereira de Souza! Seja bem vindo 😎👩🏾‍💻
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" altura="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt = "primavera" largura = "40" altura = "40" /> </a>
+
+  
+  ![Snake animation](https://github.com/joaodcpjunior/joaodcpjunior/blob/output/github-contribution-grid-snake.svg)
